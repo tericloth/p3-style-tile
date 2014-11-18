@@ -1,3 +1,25 @@
+/*Primary header*/
+h1 {
+	font-family: 'Luckiest Guy', cursive;
+	color: orange;
+}
+/*BODY TEXT*/
+p {
+	font-family: 'Poiret One', cursive;
+	line-height: 1.75em;
+	color: #eee;
+}
+
+/*LINKS*/
+a:link,
+a:visited;{
+border-bottom: double black;
+text-transform: uppercase;
+text-decoration: none;
+}
+
+
+
 /* Set Your Own Margin & Padding */
 h2, h3, p {
 	margin: 0;
@@ -21,6 +43,18 @@ section {
 	width: 50px;
 }
 
+.color-1 {
+	background: teal;
+}
+.color-2 {
+	background: cornflowerblue;
+}
+
+/*TEXTURES*/
+.pattern-1 {
+	background-color: #008c8c;
+	background: url(http://www.transparenttextures.com/patterns/office.png);
+}
 
 /* Show Grid */
 .showgrid {
