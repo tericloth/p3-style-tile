@@ -53,7 +53,17 @@ section {
 /*TEXTURES*/
 .pattern-1 {
 	background-color: #008c8c;
-	background: url(http://www.transparenttextures.com/patterns/office.png);
+	background: url(http://www.transparenttextures.com/patterns/carbon-fibre.png);
+}
+
+.pattern-1 {
+	background-color: #008c8c;
+	background: url(http://www.transparenttextures.com/patterns/black-linen-2.png);
+}
+
+.pattern-1 {
+	background-color: #008c8c;
+	background: url(http://www.transparenttextures.com/patterns/black-felt.png);
 }
 
 /* Show Grid */
