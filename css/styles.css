@@ -1,11 +1,11 @@
 /*Primary header*/
 h1 {
-	font-family: 'Luckiest Guy', cursive;
-	color: orange;
+	font-family: 'Playfair Display', serif;
+	color: black;
 }
 /*BODY TEXT*/
 p {
-	font-family: 'Poiret One', cursive;
+	font-family: 'Playfair Display', serif;
 	line-height: 1.75em;
 	color: #eee;
 }
@@ -22,7 +22,8 @@ text-decoration: none;
 
 /* Set Your Own Margin & Padding */
 h2, h3, p {
-	margin: 0;
+	margin: 0 10px 10px 10px;
+	padding: 0, 20px 10px, 0;
 }
 
 /* Layout for Style Tile*/
@@ -44,10 +45,14 @@ section {
 }
 
 .color-1 {
-	background: teal;
+	background: #0D0D0C;
 }
 .color-2 {
-	background: cornflowerblue;
+	background: #ECF081;
+}
+
+.color-3 {
+	background: #8C8C87;
 }
 
 /*TEXTURES*/
@@ -56,12 +61,12 @@ section {
 	background: url(http://www.transparenttextures.com/patterns/carbon-fibre.png);
 }
 
-.pattern-1 {
+.pattern-2 {
 	background-color: #008c8c;
 	background: url(http://www.transparenttextures.com/patterns/black-linen-2.png);
 }
 
-.pattern-1 {
+.pattern-3 {
 	background-color: #008c8c;
 	background: url(http://www.transparenttextures.com/patterns/black-felt.png);
 }
